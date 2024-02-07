@@ -1,0 +1,70 @@
+@media(max-width:992px) {
+
+    .navbar-nav {
+        margin-left: 25%;
+        font-size: x-large;
+
+    }
+
+
+
+    #formularioContato {
+        margin-bottom: 5%;
+    }
+}
+.card{
+    border: none;
+}
+main{
+    margin-top: 10rem;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    line-height: 2rem;
+    font-style: italic;
+    font-family: sans-serif;
+    background-color:transparent;
+}
+
+#formularioContato {
+    background-color: #E8E6E6;
+}
+
+body>nav {
+    background-image: linear-gradient(to top, white, #00ff9069, #00800045);
+}
+
+.lead {
+    font-style: italic;
+}
+
+h1,
+h2,
+h3 {
+    margin: auto;
+    text-align: center;
+}
+
+
+.float-right {
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+}
+
+.fa-envelope {
+    font-size: 2.3rem
+}
+
+.fixed-top{
+    height: auto;
+}
+mark{
+    background-color: rgba(255, 255, 0, 0.608);
+}
+
